@@ -16,6 +16,7 @@ class StockExchange {
             System.out.println("Order received: " + line);
         }
 
+        input.close();
         System.out.println("Exiting Stock Exchange");
     }
 }
