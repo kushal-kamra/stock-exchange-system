@@ -10,4 +10,4 @@ System Design reference found at ByteByteGo - https://blog.bytebytego.com/p/matc
 - Constant lookup time. Operations include: get volume at a price level or between price levels, query best bid/ask.
 - Fast add/cancel/execute/update operations, preferably O(1) time complexity. Operations include: place a new order, cancel an order, and match an order.
 
-![alt text](Meesho Stock Exchange System.png)
+![alt text](Meesho%20Stock%20Exchange%20System.png)
